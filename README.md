@@ -26,13 +26,13 @@
 
 <img width="822" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/47859209/195967211-7b9b8171-0653-4966-b491-78ea4303dbbd.png">
 
-Overall, our analyses pointed out some issues of concern;
+Overall, our analyses pointed out some issues of concern:
 
-We were able to deduce that there are no salary increases.
+- We were able to deduce that there are no salary increases.
 
-There are repeated names of employees and in different departments, which makes us believe that the databases of the employees and departments have not been updated based on their last position.
+- There are repeated names of employees and in different departments, which makes us believe that the databases of the employees and departments have not been updated based on their last position.
 
-The active managers are less than the number of departments, which makes us think that there are departments without a manager and the rest have double the burden of having to deal with those departments.
+- The active managers are less than the number of departments, which makes us think that there are departments without a manager and the rest have double the burden of having to deal with those departments.
 There are only 1,549 employees with the possibility of a Mentoring Program.
 
 
