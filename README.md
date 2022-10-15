@@ -14,7 +14,7 @@
 <img width="821" alt="unique_titles" src="https://user-images.githubusercontent.com/47859209/195966974-60ba1d28-4526-49fa-b5cb-47c9c4b0cbcf.png">
 
 
-- By creating another query and retrieving the number of titles from the Unique titles table, we in turn created another table by using the group function. This sortred out the most recent employees who are retiring.
+- By creating another query and retrieving the number of titles from the Unique titles table, we in turn created another table by using the group function. This sortred out and counted the most recent employees who are retiring categorized by type.
 
 <img width="804" alt="retirment_most_recent" src="https://user-images.githubusercontent.com/47859209/195967024-aeda8da4-6312-4e15-b9a3-5b3b24d21f05.png">
 
